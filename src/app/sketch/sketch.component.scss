@@ -1,0 +1,12 @@
+.sketch-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    
+    .sketch-container {
+        width: 312px;
+        height: 235px;
+        margin: 50px auto;
+    }
+}
